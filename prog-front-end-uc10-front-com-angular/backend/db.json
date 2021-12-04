@@ -1,5 +1,12 @@
 {
-  "casa": [],
+  "casa": [
+    {
+      "nomeCasa": "Casa do Mateus",
+      "enderecoCasa": "Rua Getúlio Vargas, 123",
+      "qtddPessoas": "2000",
+      "id": 1
+    }
+  ],
   "cadastro": [],
   "compra": [],
   "evento": []
